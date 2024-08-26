@@ -1,2 +1,0 @@
-# .github
-Bug busters org
