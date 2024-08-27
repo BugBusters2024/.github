@@ -9,7 +9,7 @@
    - [Frontend](#frontend)
    - [Backend](#backend)
 4. [Recomendaciones](#recomendaciones)
-   -[Extensiones][#extensiones]
+   - [Extensiones][#extensiones]
 6. [Despliegue](#despliegue)
 7. [Contribuciones](#contribuciones)
 8. [Contacto](#contacto)
