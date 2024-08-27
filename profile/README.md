@@ -36,6 +36,7 @@ Para los proyectos Backend, sigue estos pasos:
 - **Bracket Pair Color DLW**: Para diferenciar llaves anidadas.
 - **Color Highlight**: Permite remarcar el color basado en el valor hexadecimal presente en el HTML.
 - **Material Icon Theme** : Muestra iconos de carpetas y archivos según funciones.
+- **GitHub Copilot**: Asistente de IA.
 
 ## Despliegue (TODO)
 ...
