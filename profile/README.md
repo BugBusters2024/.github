@@ -31,9 +31,10 @@ Para los proyectos Backend, sigue estos pasos:
 ...
 
 ## Recomendaciones (TODO)
-### Extensiones (TODO)
-- Postman
-- Bracket Pair Color DLW
+### Extensiones para VSCode (TODO)
+- **Postman**: Para hacer solicitudes POST.
+- **Bracket Pair Color DLW**: Para diferenciar llaves anidadas.
+- **Color Highlight**: Permite remarcar el color basado en el valor hexadecimal presente en el HTML.
 
 ## Despliegue (TODO)
 ...
