@@ -35,6 +35,7 @@ Para los proyectos Backend, sigue estos pasos:
 - **Postman**: Para hacer solicitudes POST.
 - **Bracket Pair Color DLW**: Para diferenciar llaves anidadas.
 - **Color Highlight**: Permite remarcar el color basado en el valor hexadecimal presente en el HTML.
+- **Material Icon Theme** : Muestra iconos de carpetas y archivos según funciones.
 
 ## Despliegue (TODO)
 ...
