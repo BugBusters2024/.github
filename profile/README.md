@@ -1,12 +1,41 @@
-## Hi there 👋
+## Bugbusters Org
 
-<!--
+# Organización de Microservicios - Guía de Creación y Configuración
 
-**Here are some ideas to get you started:**
+## Tabla de Contenidos
+1. [Introducción](#introducción)
+2. [Guia de Microservicios](#guia-de-microservicios)
+3. [Configuración de Proyectos](#configuración-de-proyectos)
+   - [Frontend](#frontend)
+   - [Backend](#backend)
+4. [Recomendaciones](#recomendaciones)
+   -[Extensiones][#extensiones]
+6. [Despliegue](#despliegue)
+7. [Contribuciones](#contribuciones)
+8. [Contacto](#contacto)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Introducción
+Este documento sirve como guía para la creación y configuración de proyectos en la organización, cubriendo tanto el desarrollo Frontend como Backend. La organización está estructurada en microservicios, cada uno alojado en su propio repositorio.
+
+## Guia de Microservicios (TODO)
+Cada microservicio tiene su propio repositorio alojado en un puerto:
+
+## Configuración de Proyectos
+
+### Frontend (TODO)
+Para los proyectos Frontend, se recomienda seguir los siguientes pasos:
+...
+
+### Backend (TODO)
+Para los proyectos Backend, sigue estos pasos:
+...
+
+## Recomendaciones (TODO)
+### Extensiones (TODO)
+- Postman
+- Bracket Pair Color DLW
+
+## Despliegue (TODO)
+...
+
+---
