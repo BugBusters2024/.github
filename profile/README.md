@@ -49,6 +49,7 @@ Para los proyectos Frontend, se recomienda seguir los siguientes pasos:
 
 ### Backend (TODO)
 Para los proyectos Backend, sigue estos pasos:
+#### Python Flask
 
 **Configuración inicial**
 1. Instalar Python 3.12
@@ -71,10 +72,6 @@ Para los proyectos Backend, sigue estos pasos:
 **Despliegue del Front**
 1. Entrar a la carpeta del proyecto.
 2. Ejecutar `python src/app.py`.
-
-#### Python Flask
-3. Crear una carpeta de proyecto y entrar en la carpeta.
-4. Ejecutar `pip install 
 
 ## Recomendaciones (TODO)
 ### Extensiones para VSCode (TODO)
