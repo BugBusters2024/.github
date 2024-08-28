@@ -53,7 +53,8 @@ Para los proyectos Backend, sigue estos pasos:
 
 **Configuración inicial**
 1. Instalar Python 3.12
-2. Ejecutar `pip install virtualenv`
+2. Ejecutar `python -m pip install --upgrade pip`
+3. Ejecutar `pip install virtualenv`
 
 **Creacion de proyecto**
 1. Posicionarse en una carpeta de proyectos, crear una carpeta de proyectos, entrar en la carpeta
