@@ -24,7 +24,21 @@ Cada microservicio tiene su propio repositorio alojado en un puerto:
 
 ### Frontend (TODO)
 Para los proyectos Frontend, se recomienda seguir los siguientes pasos:
+#### React Vite
 ...
+**Creacion de proyecto**
+1. Instalar Node.js.
+2. Ejecutar `npm -g install pnpm`.
+3. Posicionarse en una carpeta de proyectos.
+4. Ejecutar `pnpm create vite.
+6. Seleccionar opciones de nombre de proyecto, nombre de paquete, tecnología a usar React, Typescript + CWS
+7. Entrar a la carpeta del proyecto
+8. Ejecutar `pnpm install 
+
+**Uso de proyectos ya hechos**
+1. Descargar proyecto
+2. Entrar a la carpeta del proyecto.
+3. Ejecutar pnpm install
 
 ### Backend (TODO)
 Para los proyectos Backend, sigue estos pasos:
