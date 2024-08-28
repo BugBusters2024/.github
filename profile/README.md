@@ -40,7 +40,7 @@ Para los proyectos Frontend, se recomienda seguir los siguientes pasos:
 3. Ejecutar `pnpm install`.
 
 **Ejecución**
-1. Ejecutar `pnpm run dev`
+1. Ejecutar `pnpm run dev`.
 
 ### Backend (TODO)
 Para los proyectos Backend, sigue estos pasos:
