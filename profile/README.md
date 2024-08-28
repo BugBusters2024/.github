@@ -65,9 +65,9 @@ Para los proyectos Backend, sigue estos pasos:
 **Uso de proyectos ya hechos**
 1. Descargar proyecto.
 2. Entrar a la carpeta del proyecto
-3. Instalar el entorno virtual ejecutando `virtualenv env`
+3. Instalar o agregar el entorno virtual ejecutando `virtualenv env`
 4. Activar el entorno virtual ejecutando `env\Scripts\activate` 
-5. Ejecutar `pip install -r requirements.txt`
+5. Ejecutar `pip install -r requirements.txt` si es requerido.
 
 **Despliegue del Front**
 1. Entrar a la carpeta del proyecto.
