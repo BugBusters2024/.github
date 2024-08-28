@@ -32,12 +32,12 @@ Para los proyectos Frontend, se recomienda seguir los siguientes pasos:
 4. Ejecutar `pnpm create vite`.
 6. Establecer nombre de proyecto, nombre del paquete, tecnología a usar como React, variante a usar como Typescript + SWC.
 7. Entrar a la carpeta del proyecto.
-8. Ejecutar `pnpm install` .
+8. Ejecutar `pnpm install`.
 
 **Uso de proyectos ya hechos**
-1. Descargar proyecto
+1. Descargar proyecto.
 2. Entrar a la carpeta del proyecto.
-3. Ejecutar `pnpm install`
+3. Ejecutar `pnpm install`.
 
 ### Backend (TODO)
 Para los proyectos Backend, sigue estos pasos:
