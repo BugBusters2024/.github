@@ -25,26 +25,56 @@ Cada microservicio tiene su propio repositorio alojado en un puerto:
 ### Frontend (TODO)
 Para los proyectos Frontend, se recomienda seguir los siguientes pasos:
 #### React Vite
-**Creacion de proyecto**
-1. Instalar Node.js.
+
+**Configuración inicial**
+1. Instalar Node.js. LTS
 2. Ejecutar `npm -g install pnpm`.
-3. Posicionarse en una carpeta de proyectos.
-4. Ejecutar `pnpm create vite`.
-6. Establecer nombre de proyecto, nombre del paquete, tecnología a usar como React, variante a usar como Typescript + SWC.
-7. Entrar a la carpeta del proyecto.
-8. Ejecutar `pnpm install`.
+
+**Creacion de proyecto**
+1. Posicionarse en una carpeta de proyectos.
+2. Ejecutar `pnpm create vite`.
+3. Establecer nombre de proyecto, nombre del paquete, tecnología a usar como React, variante a usar como Typescript + SWC.
+4. Entrar a la carpeta del proyecto.
+5. Agregar librerias necesarias modificando package.json
+6. Ejecutar `pnpm install`.
 
 **Uso de proyectos ya hechos**
 1. Descargar proyecto.
 2. Entrar a la carpeta del proyecto.
 3. Ejecutar `pnpm install`.
 
-**Ejecución**
-1. Ejecutar `pnpm run dev`.
+**Despliegue del Front**
+1. Entrar a la carpeta del proyecto.
+2. Ejecutar `pnpm run dev`.
 
 ### Backend (TODO)
 Para los proyectos Backend, sigue estos pasos:
-...
+
+**Configuración inicial**
+1. Instalar Python 3.12
+2. Ejecutar `pip install virtualenv`
+
+**Creacion de proyecto**
+1. Posicionarse en una carpeta de proyectos, crear una carpeta de proyectos, entrar en la carpeta
+2. Instalar el entorno virtual ejecutando `virtualenv env`
+3. Activar el entorno virtual ejecutando `env\Scripts\activate`
+4. Crear la carpeta src y el archivo app.py dentro de esta
+5. Agregar contenido al archivo app.py y librerias
+
+**Uso de proyectos ya hechos**
+1. Descargar proyecto.
+2. Entrar a la carpeta del proyecto
+3. Instalar el entorno virtual ejecutando `virtualenv env`
+4. Activar el entorno virtual ejecutando `env\Scripts\activate` 
+5. Ejecutar `pip install -r requirements.txt`
+
+**Despliegue del Front**
+1. Entrar a la carpeta del proyecto.
+2. Ejecutar `python src/app.py`.
+
+#### Python Flask
+3. Crear una carpeta de proyecto y entrar en la carpeta.
+4. Ejecutar `pip install 
 
 ## Recomendaciones (TODO)
 ### Extensiones para VSCode (TODO)
