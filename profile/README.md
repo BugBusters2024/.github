@@ -57,20 +57,20 @@ Para los proyectos Backend, sigue estos pasos:
 3. Ejecutar `pip install virtualenv`
 
 **Creacion de proyecto**
-1. Posicionarse en una carpeta de proyectos, crear una carpeta de proyectos, entrar en la carpeta
-2. Instalar el entorno virtual ejecutando `virtualenv env`
-3. Activar el entorno virtual ejecutando `env\Scripts\activate`
-4. Crear la carpeta src y el archivo app.py dentro de esta
-5. Agregar contenido al archivo app.py y librerias
+1. Posicionarse en una carpeta de proyectos, crear una carpeta de proyectos, entrar en la carpeta.
+2. Instalar el entorno virtual ejecutando `virtualenv env`.
+3. Activar el entorno virtual ejecutando `env\Scripts\activate`.
+4. Crear la carpeta src y el archivo app.py dentro de esta.
+5. Agregar contenido al archivo app.py y librerias.
 
 **Uso de proyectos ya hechos**
 1. Descargar proyecto.
-2. Entrar a la carpeta del proyecto
+2. Entrar a la carpeta del proyecto.
 3. Instalar o agregar el entorno virtual ejecutando `virtualenv env`
 4. Activar el entorno virtual ejecutando `env\Scripts\activate` 
 5. Ejecutar `pip install -r requirements.txt` si es requerido.
 
-**Despliegue del Front**
+**Despliegue del Back**
 1. Entrar a la carpeta del proyecto.
 2. Ejecutar `python src/app.py`.
 
