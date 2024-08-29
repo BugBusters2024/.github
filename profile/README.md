@@ -65,7 +65,8 @@ Para los proyectos Backend, sigue estos pasos:
 2. Instalar el entorno virtual ejecutando `virtualenv env`.
 3. Activar el entorno virtual ejecutando `env\Scripts\activate`.
 4. Crear la carpeta src y el archivo app.py dentro de esta.
-5. Agregar contenido al archivo app.py, por ejemplo:
+5. Instalar flask con ``pip install flask`
+6. Agregar contenido al archivo app.py, por ejemplo:
 ```python
 from flask import Flask
 
