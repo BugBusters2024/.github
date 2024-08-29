@@ -27,25 +27,29 @@ Para los proyectos Frontend, se recomienda seguir los siguientes pasos:
 #### React Vite
 
 **Configuración inicial**
-1. Instalar Node.js. LTS
-2. Ejecutar `npm -g install pnpm`.
+
+Instalar [Bun](https://bun.sh/)
+
+   `powershell -c "irm bun.sh/install.ps1 | iex"` para Windows
+
+   `curl -fsSL https://bun.sh/install | bash` para Linux
 
 **Creacion de proyecto**
 1. Posicionarse en una carpeta de proyectos.
-2. Ejecutar `pnpm create vite`.
+2. Ejecutar `bun create vite`.
 3. Establecer nombre de proyecto, nombre del paquete, tecnología a usar como React, variante a usar como Typescript + SWC.
 4. Entrar a la carpeta del proyecto.
 5. Agregar librerias necesarias modificando package.json
-6. Ejecutar `pnpm install`.
+6. Ejecutar `bun install`.
 
 **Uso de proyectos ya hechos**
 1. Descargar proyecto.
 2. Entrar a la carpeta del proyecto.
-3. Ejecutar `pnpm install`.
+3. Ejecutar `bun install`.
 
 **Despliegue del Front**
 1. Entrar a la carpeta del proyecto.
-2. Ejecutar `pnpm run dev`.
+2. Ejecutar `bun run dev`.
 
 ### Backend (TODO)
 Para los proyectos Backend, sigue estos pasos:
