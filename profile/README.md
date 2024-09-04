@@ -23,7 +23,7 @@ Cada microservicio tiene su propio repositorio alojado en un puerto:
 ## Configuración de Proyectos
 
 ### [Solo para Windows 11] Habilitar ejecución de Scripts
-1. Abrir Poweshell con permisos de administrador
+1. Abrir Poweshell con permisos de administrador.
 2. Ejecutar `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`.
 
 ### Frontend (TODO)
